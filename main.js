@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       </a>
       <a href="#l" target="_blank" class="cert-card">
         <img src="assets/me/carabaylllo.jpeg" alt="Gestión de Aplicación y manejo de datos" class="cert-image">
-        <h4 class="cert-title">IT Specialist: Gestión de Aplicación y manejo de datos</h4>
+        <h4 class="cert-title"> Gestión de Aplicación y manejo de datos</h4>
         <p class="cert-issuer">Cetpro Carabayllo</p>
       </a>
       <a href="#l" target="_blank" class="cert-card">
